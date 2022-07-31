@@ -39,7 +39,8 @@ const HeroBanner = () => (
           borderRadius: '10px',
         }}
       >
-        Explore Exercises
+        Explore
+        <i className="uil uil-arrow-right" />
       </a>
     </Stack>
     <Typography
