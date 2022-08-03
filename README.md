@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=100% height=200px src="./src/assets/ezgif.com-gif-maker (1).gif" alt="Project logo"></a>
+ <img width=100% height=100% src="./src/assets/ezgif.com-gif-maker (1).gif" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Gym_Fit</h3>
