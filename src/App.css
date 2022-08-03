@@ -2,7 +2,7 @@
 
 body {
   font-family: 'Courgette', cursive !important;
-  background-color: #fffafb;
+  background-color: #f1efef;
 }
 
 * {
@@ -24,7 +24,7 @@ body {
   width: 0;
   height: 2px;
   background: #000;
-
+  font-family: 'Courgette', cursive !important;
   transition: width 0.3s;
 }
 
@@ -46,7 +46,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #ff2625;
+  color: grey !important;
   font-size: 25px;
   border-radius: 4px;
   position: absolute;
@@ -83,21 +83,6 @@ body {
   width: 700px;
   height: 900px;
   margin-top: -330px;
-}
-
-.exercise-card {
-  width: 400px;
-  height: 445px;
-  background: #fff;
-  border-top: 4px solid #ff2625;
-  border-bottom-left-radius: 20px;
-  text-decoration: none;
-  display: flex;
-  justify-content: space-between;
-  flex-direction: column;
-  padding-bottom: 10px;
-  transform: scale(1, 1);
-  transition: 0.3s all ease-in-out;
 }
 
 .exercise-card img {

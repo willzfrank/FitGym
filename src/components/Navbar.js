@@ -33,7 +33,7 @@ const Navbar = () => (
     <Stack
       direction="row"
       gap="40px"
-      fontFamily="Alegreya"
+      fontFamily="Courgette"
       fontSize="24px"
       alignItems="flex-end"
     >
@@ -43,13 +43,18 @@ const Navbar = () => (
         style={{
           textDecoration: 'none',
           color: '#3A1212',
+          fontFamily: 'Courgette',
         }}
       >
         Home
       </Link>
       <a
         href="#exercises"
-        style={{ textDecoration: 'none', color: '#3A1212' }}
+        style={{
+          textDecoration: 'none',
+          color: '#3A1212',
+          fontFamily: 'Courgette',
+        }}
         className="home_btn"
       >
         Exercises
